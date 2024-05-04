@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h3> ✨ Language & Tools </h3>
+<h4> ✨ Language & Tools </h4>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesooooooo%2Fhit-counter&count_bg=%2396C291&title_bg=%23527853&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://.seeyoufarm.com)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesooooooo%2Fhit-counter&count_bg=%2396C291&title_bg=%23527853&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://.seeyoufarm.com)
 
