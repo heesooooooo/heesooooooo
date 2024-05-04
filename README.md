@@ -1,8 +1,8 @@
-<div>
+<div align="center">
   <img src="https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif?cid=6c09b952y35prp1592ul10owdhzzrewvh8mdygfg9ya8i9rd&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" />
-</div><br>
-<span>Front-End 개발자 엄희수입니다! Back-End도 공부하고 있습니다📖</span> <br><br>
-
+  <br>
+  <span>Front-End 개발자 엄희수입니다! Back-End도 공부하고 있습니다📖</span> <br><br>
+</div>
 <!--
 **heesooooooo/heesooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
