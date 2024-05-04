@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-<h3> ✉ Contact me here </h3>
-<div align="center">
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/uheesooooooo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesooooooo%2Fhit-counter&count_bg=%2396C291&title_bg=%23527853&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://.seeyoufarm.com)
