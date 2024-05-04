@@ -1,7 +1,7 @@
 <div>
   <img src="https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif?cid=6c09b952y35prp1592ul10owdhzzrewvh8mdygfg9ya8i9rd&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" />
 </div>
-Front-End 개발자 엄희수입니다! Back-End도 공부하고 있습니다📖
+<span>Front-End 개발자 엄희수입니다! Back-End도 공부하고 있습니다📖</span> <br><br>
 
 <!--
 **heesooooooo/heesooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 </div>
 
-
+<div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesooooooo%2Fhit-counter&count_bg=%2396C291&title_bg=%23527853&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://.seeyoufarm.com)
+</div>
