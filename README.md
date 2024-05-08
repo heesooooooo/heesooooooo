@@ -24,7 +24,7 @@
 <br><br><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesooooooo%2Fhit-counter&count_bg=%2396C291&title_bg=%23527853&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://.seeyoufarm.com) <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{heesooooooo}?pet-id=1" width="1000" height="120"/>
 </a>
 
 <!--
